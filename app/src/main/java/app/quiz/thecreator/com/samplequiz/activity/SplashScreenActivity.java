@@ -31,6 +31,6 @@ public class SplashScreenActivity extends Activity {
                 finish();
             }
         }, TIME);
-
+//Some changes made
     }
 }
